@@ -8,3 +8,9 @@ Build and Deploy Tomcat Server
     * Setup Tomcat Server
     * Integrating Github, Maven, Tomcat Server with Jenkins
     * Create a CI and CD job
+
+
+
+Continuous Intergration ******* Continuous Delivery 
+============================================================
+Source Version Control ==> Build ==> Staging ==> Production
